@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682411443897",
+    "project_id": "edoyleca2-1639951474295",
+    "storage_bucket": "edoyleca2-1639951474295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682411443897:android:6ce927f074a979d7d57d68",
+        "android_client_info": {
+          "package_name": "eDoyle.CA2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682411443897-ab3gfagkuhanh7roe95uajkor8b7bipa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eDoyle.CA2",
+            "certificate_hash": "3aea4f6aae5c2c10d81ebd439570e830b338e662"
+          }
+        },
+        {
+          "client_id": "682411443897-6g7k6231s2hdp8t2g1e61b877ni7vko5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVWS1k2GJw0vGvGD0keRTIXdSo3C7Ie0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682411443897-6g7k6231s2hdp8t2g1e61b877ni7vko5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

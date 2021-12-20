@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CA2</string>
+    <string name="menu_addCharacter">Add</string>
+    <string name="menu_sort">Sort by</string>
+    <string name="menu_cancelCharacter">Cancel</string>
+    <string name="button_addCharacter">Add Character</string>
+    <string name="button_delCharacter">Delete Character</string>
+    <string name="button_register">Register</string>
+    <string name="hint_characterName">Character Name</string>
+    <string name="hint_characterDescription">Character Description</string>
+    <string name="enter_character_name"> Please enter a Character Name </string>
+    <string name="save_character"> Save Character </string>
+    <string name="delete_character"> Delete Character </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_character_image">Select character image</string>
+    <string name="change_character_image">Change character image</string>
+    <string name="title_activity_logged_in">Authenticated</string>
+</resources>
